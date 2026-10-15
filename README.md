@@ -15,7 +15,7 @@
 > where $Y=0$ denotes a genuine pair, $Y=1$ an impostor pair, $E_W = \|G_W(X_1) - G_W(X_2)\|$ is the energy, and $Q$ controls the dynamic range of the network output.
 >
 > **For a deeper discussion of the paper's ideas, its mathematical foundations, and its lasting influence on modern representation learning and contrastive self-supervised methods, read the accompanying article:**
-> 📖 [Representation Learning Through the Lens of Similarity](https://medium.com/p/5e2e752748bc/edit)
+> 📖 [Representation Learning Through the Lens of Similarity](https://vnaghshin.medium.com/teaching-machines-what-similarity-means-a-2005-paper-that-helps-explain-representation-learning-5e2e752748bc?postPublishedType=initial)
 
 ---
 
